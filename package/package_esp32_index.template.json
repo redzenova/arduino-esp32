@@ -1,19 +1,19 @@
 {
   "packages": [
     {
-      "name": "esp32",
-      "maintainer": "Espressif Systems",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
-      "email": "hristo@espressif.com",
+      "name": "ESP32-2S Dev Board",
+      "maintainer": "Raweeroj Thongdee",
+      "websiteURL": "https://github.com/redzenova/arduino-esp32-2s",
+      "email": "raweeroj@everythink.dev",
       "help": {
         "online": "http://esp32.com"
       },
       "platforms": [
         {
-          "name": "esp32",
-          "architecture": "esp32",
+          "name": "ESP32-2S",
+          "architecture": "esp32-2s",
           "version": "",
-          "category": "ESP32",
+          "category": "ESP32-2S",
           "url": "",
           "archiveFileName": "",
           "checksum": "",
@@ -23,13 +23,13 @@
           },
           "boards": [
             {
-              "name": "ESP32 Dev Module"
+              "name": "ESP32-2S Dev Module"
             },
             {
-              "name": "WEMOS LoLin32"
+              "name": "Gravitech Cucumber R ESP32-2S"
             },
             {
-              "name": "WEMOS D1 MINI ESP32"
+              "name": "Gravitech Cucumber RS ESP32-2S"
             }
           ],
           "toolsDependencies": [
